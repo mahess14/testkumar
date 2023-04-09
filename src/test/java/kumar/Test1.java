@@ -7,6 +7,8 @@ public class Test1 {
 		int y=200;
 		int k=300;
 		int z=x+y+k;
+		
+		
 		System.out.println(z);
 
 	}
