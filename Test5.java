@@ -12,8 +12,8 @@ public class Test5 {
 		float f=11.5f;
 		float g=12.5f;
 		int z=x+y+a+b+c;
-		system.out.println(f);
-		system.out.println(g);
+		System.out.println(f);
+		System.out.println(g);
 		System.out.println(e);
 		System.out.println(z);
 
