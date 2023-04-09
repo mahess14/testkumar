@@ -7,6 +7,7 @@ public class Test8 {
 		float e1=10.5f;
 		float e2=10.5f;
 		
+		
 		System.out.println(e);
 		System.out.println(e1);
 		System.out.println(e2);
