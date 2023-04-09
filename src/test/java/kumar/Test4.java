@@ -9,9 +9,10 @@ public class Test4 {
 		int b=400;
 		int c=500;
 		float e= 10.5f;
+		float f =11.5f;
 		
 		int z=x+y+a+b+c;
-		System.out.println(e);
+		System.out.println(e+f);
 		System.out.println(z);
 
 	}
