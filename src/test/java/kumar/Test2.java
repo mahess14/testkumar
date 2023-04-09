@@ -8,6 +8,7 @@ public class Test2 {
 		int a=300;
 		int b=400;
 		int z=x+y+a+b;
+		
 		System.out.println(z);
 
 	}
