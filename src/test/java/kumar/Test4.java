@@ -1,4 +1,4 @@
-package kumar;
+package kumar.src.test.java.kumar;
 
 public class Test4 {
 
