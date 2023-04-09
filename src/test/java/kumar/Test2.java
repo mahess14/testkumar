@@ -1,4 +1,4 @@
-package kumar;
+package kumar.src.test.java.kumar;
 
 public class Test2 {
 
@@ -7,6 +7,8 @@ public class Test2 {
 		int y=200;
 		int k=300;
 		int s=400;
+		
+		
 		int z=x+y+k+s;
 		
 		
